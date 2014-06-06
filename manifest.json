@@ -1,8 +1,8 @@
 {
-    "name": "ClariS Click Version",
-    "version": "1.0.0.1",
+    "name": "Mahouka Theme",
+    "version": "0.4.0.0",
     "manifest_version": 2,
-    "description": "ClariS Click version theme",
+    "description": "Mahouka with Shiba siblings",
     "icons": {
         "128": "img/icon128.png"
     },
@@ -16,24 +16,24 @@
         },
         "colors": {
             "frame": [
-                182,
-                223,
-                240
+                132,
+                240,
+                246
             ],
             "toolbar": [
-                153,
-                51,
-                102
+                38,
+                39,
+                37
             ],
             "tab_text": [
-                255,
-                255,
-                255
+                132,
+                240,
+                246
             ],
             "tab_background_text": [
-                89,
-                68,
-                67
+                132,
+                240,
+                246
             ],
             "tab_background": [
                 62,
@@ -46,9 +46,9 @@
                 255
             ],
             "ntp_background": [
-                252,
-                251,
-                184
+                132,
+                240,
+                246
             ],
             "ntp_text": [
                 89,
