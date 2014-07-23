@@ -11,7 +11,7 @@
             "theme_frame": "img/frame.png",
             "theme_frame_overlay": "img/frame_overlay.png",
             "theme_toolbar": "img/theme_toolbar.png",
-            "theme_ntp_background": "img/ntp_bg2.png",
+            "theme_ntp_background": "img/ntp_bg.png",
             "theme_ntp_attribution": "img/ntp_attribution.png"
         },
         "colors": {
