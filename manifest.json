@@ -1,6 +1,6 @@
 {
     "name": "Mahouka Theme",
-    "version": "0.4.0.0",
+    "version": "1.0.1.4",
     "manifest_version": 2,
     "description": "Mahouka with Shiba siblings",
     "icons": {
@@ -31,9 +31,9 @@
                 246
             ],
             "tab_background_text": [
-                132,
-                240,
-                246
+                38,
+                39,
+                37
             ],
             "tab_background": [
                 62,
